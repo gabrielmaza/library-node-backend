@@ -20,7 +20,7 @@ node install
 
 For running
 ```
-node start
+node app.js
 ```
 # Api endpoints.
 
