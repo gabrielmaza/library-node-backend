@@ -1,10 +1,8 @@
-# NodeBooks Trabajo Practico UTN
+## Members
 
-## Integrantes
+Teachers: Ing. Orlando F. Brea y Lorena R. Izzo
 
-Profesores: Ing. Orlando F. Brea y Lorena R. Izzo
-
-Alumnos:
+Students:
 
 Maza Gabriel /
 Camean Fenoy Juan Pablo /
@@ -12,20 +10,19 @@ Paak Jorge German / Cammarota Federico /
 Casquero Ricardo /
 Damiani Juan /
 
-## Instalar
+## Install
 
-Para iniciar deben tener instalado Node.js
+To start you must have Node.js installed and import the biblioteca.sql file into its respective database.
 
 ```
 node install
 ```
 
-Para ejecutar
-
+For running
 ```
 node start
 ```
-# Endpoints de la Api.
+# Api endpoints.
 
 ## Api categoria
 ```
