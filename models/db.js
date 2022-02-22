@@ -4,7 +4,7 @@ var util = require("util");
 var db;
 
 /*
- * Conceccion con la base de datos. 
+ * Conexión con la base de datos. 
  *
  * @return conector de db.
  * @mensajes consola "Ya estas conectado a la base de datos!", "Error conectando con la base de datos!"
